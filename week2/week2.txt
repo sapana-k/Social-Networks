@@ -1,0 +1,6 @@
+gephi is an open source gui based graph analysis tool
+it allows more flexibility in analysis of graphs
+
+after putting nlogn edges there is very prob of graph not being connected
+
+after n*n edges , graph is guarnteed connected

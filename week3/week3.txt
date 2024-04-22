@@ -1,0 +1,17 @@
+strong triad closure property = if i have 2 strong friends, they are gonna have some kind of friendship
+
+local bridge = no common friends, connects one cluster to another, is a weak tie
+
+embeddedness = no. of common friends between 2 people
+
+Structural holes happen when less embeddedness is there and one can only access the other cluster through one person, who monopolises on it, so that gap between 2 communitites is a structural hole.
+structural holes refer to gaps between non-redundant contacts in a social network, acting as bridges for diverse information and opportunities
+Brokerage = having holes
+
+social capital = benefit u get from the connections/friendship in a network
+which friendship to do to maximize social capital
+
+Between = an edge has high betweenness if more path between 2 nodes pass through that edge
+higher the betweenness, more it connects 2 communities/clusters/components that otherwise will not be connected
+
+Communities = more intranet connections, less internet connections
