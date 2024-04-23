@@ -15,3 +15,16 @@ Between = an edge has high betweenness if more path between 2 nodes pass through
 higher the betweenness, more it connects 2 communities/clusters/components that otherwise will not be connected
 
 Communities = more intranet connections, less internet connections
+
+Best division = 
+    Brute = whichever partition provides highest value of ratio of ( sum of all intranet edges) / ( no . of internet edges)
+    Girvan Newman = edges which connect 2 communities, tend to have high betweenness, keep removing edges with high betweenness and having more shortest paths passing thru them, till u get 2 components
+                        
+
+Gephi = 
+    Modularity = less resoultion - more communities
+
+Neighborhood overlap = is the ratio of the number of nodes that are neighbors for both u and v to the number of nodes that are neighbors of at least u or v.
+
+betweenness centrality of an edge e = the sum of the fraction of all-pairs shortest paths that pass through edge e.
+ Traditionally, a(s,t) is the number of shortest (s,t)-paths and a(s,t|e) is the number of those paths passing through edge e
